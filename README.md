@@ -22,8 +22,9 @@ Like a usual stopwatch the intial time is set to 00:00:00.00 . It has start/cont
 
 Shortcomings : 
 After actually documenting this I have come to realise that there are no. of things missing and could be improved as well: 
-1. Better implementation of timer and stopwatch
-2. The option for user to change or edit the default clock, edit or remove timers, some better functionality to trigger the alarm.
+1. Better implementation of timer and stopwatch.
+2. The missing option for user to change or edit the default clock, edit or remove timers, some better functionality to trigger the alarm.
+3. Bad Indentation and Less Comments in the code.
 
 I had to implement the project in 3 days for some reasons therefore I couldn't make it work properly to its best.
 
