@@ -1,5 +1,5 @@
 # GUI-Clock-Application
-It is my university JAVA GUI project, attempting to mimic the app layout of my phone clock application byself.
+It is my university JAVA GUI project, attempting to mimic the app layout of my phone clock application by myself.
 
 The Clock App consists of the four generic modules like normal clock application:
 * Clock
